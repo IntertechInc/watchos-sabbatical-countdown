@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:SabbaticalCountdown.xcodeproj">
+      location = "self:/Users/chadtowle/Desktop/Dev/SabbaticalCountdown/SabbaticalCountdown.xcodeproj">
    </FileRef>
 </Workspace>
